@@ -1,1 +1,6 @@
+if SHIELD_MYKEYBOARD
 
+config ZMK_KEYBOARD_NAME
+    default "MyKeyboard"
+
+endif
